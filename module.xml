@@ -4,7 +4,7 @@
     <Module>
       <Name>websocket-echoserver</Name>
       <Version>1.0.0</Version>
-      <Description>Multi-Line in Terminal Command</Description>
+      <Description>WebSocket Echo Server for IRIS as known from Caché / Ensemble</Description>
       <Keywords>CSP, WebSocket, COS</Keywords>
       <Packaging>module</Packaging>
       <SourcesRoot>src</SourcesRoot>
