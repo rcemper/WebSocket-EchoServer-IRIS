@@ -8,7 +8,7 @@
       <Keywords>CSP, WebSocket, COS</Keywords>
       <Packaging>module</Packaging>
       <SourcesRoot>src</SourcesRoot>
-       <Resource Name="WSCSP.PKG"/>
+       <Resource Name="WSS.PKG"/>
     </Module>
   </Document>
 </Export>
