@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <Export generator="Cache" version="25">
-  <Document name="websocket-echoserver.ZPM">
+  <Document name="websocket-echoserver-iris.ZPM">
     <Module>
-      <Name>websocket-echoserver</Name>
-      <Version>1.0.1</Version>
+      <Name>websocket-echoserver-iris</Name>
+      <Version>1.0.2</Version>
       <Description>WebSocket Echo Server for IRIS as known from Caché / Ensemble</Description>
       <Keywords>CSP, WebSocket, COS</Keywords>
       <Packaging>module</Packaging>
