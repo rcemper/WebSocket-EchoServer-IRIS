@@ -12,8 +12,8 @@ So I refurbished the code with some useful additions:
 - readable communication log  
    
 This contains 2 classes:  
-- WSS.EchoServer.cls   
--  WSS.csp.cls for testing. Called from Browser by   
-   http://localhost:52773/csp/user/WSS.csp.cls
+- rcc.EchoServer.cls   
+- rcc.WSScsp.cls for testing. Called from Browser by   
+   http://localhost:52773/csp/user/rcc.WSScsp.cls
 
 The server is essential for the 'native' WebSocket Client Demo
