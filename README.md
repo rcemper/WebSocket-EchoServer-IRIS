@@ -17,3 +17,5 @@ This contains 2 classes:
    http://localhost:52773/csp/user/rcc.WSScsp.cls
 
 The server is essential for the 'native' WebSocket Client Demo
+
+[Article in DC](https://community.intersystems.com/post/websocket-echo-server-iris)
